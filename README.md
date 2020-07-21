@@ -1,2 +1,2 @@
-# BasicsOfWebDev
+# ProjektStrony
 Web project
